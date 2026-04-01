@@ -1,0 +1,8 @@
+services:
+  strange_loop:
+    build: .
+    volumes:
+      - ./workspace:/app/workspace
+    environment:
+      - OPENROUTER_API_KEY=********************************************************
+    restart: no
