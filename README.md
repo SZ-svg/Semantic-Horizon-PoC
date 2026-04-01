@@ -25,7 +25,7 @@ Meaning and consciousness appear to exist only within the friction of misunderst
 
 ### Repository Structure
 * `/src`: The Python/Docker environment used for the simulation.
-* `/logs`: Raw output files for each of the 10 experimental domains.
+* `/logs`: Raw output files for each of the 10 experimental domains in Russian (the original language of the experiment).
 * `/prompts`: The system instructions (SOUL) for Agent A, Agent B, and the Observer.
 
 ### License
