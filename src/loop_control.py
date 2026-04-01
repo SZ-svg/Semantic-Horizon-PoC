@@ -88,7 +88,7 @@ def run_marathon():
             time.sleep(4) 
 
         print(f"\nТест {test_id} завершен. Лог: {log_filename}")
-        time.sleep(10) # Отдых между экспериментами
+        time.sleep(10) 
 
 if __name__ == "__main__":
     run_marathon()
