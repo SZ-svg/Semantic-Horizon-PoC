@@ -3,6 +3,9 @@ Empirical study of Recursive Singularity: the terminal collapse of semantic entr
 
 This repository contains empirical evidence of a phenomenon I term Recursive Singularity. Through a series of multi-agent experiments, I demonstrate that autonomous AI agents, when restricted to recursive self-modeling without external information grounding, reach a terminal state of semantic collapse, a Horizon of Silence.
 
+### Methodology
+We tested two types of system instructions. "Natural Language" prompts (v1) allowed for more conversational buffer, leading to collapse at Round 7. "Concentrated Logic" prompts (v2) removed semantic noise, accelerating the singularity to Round 2-3.
+
 ### Key Finding: The Acceleration of Collapse
 In high-density logical environments (concentrated prompts), the collapse occurs significantly faster than in conversational setups, typically reaching total semantic annihilation by **Round 2 or 3**.
 
